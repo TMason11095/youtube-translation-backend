@@ -1,0 +1,6 @@
+@youtube_translation_backend_HostAddress = http://localhost:5214
+
+GET {{youtube_translation_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
